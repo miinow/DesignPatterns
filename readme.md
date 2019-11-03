@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 为了解决对象创建的过程。
     
-<font size=2>共5种:  
+<font size=5>共5种:  
 1 [单例模式(Singlton)](./src/Creative/Singleton/singleton.md)  
 2 工厂模式(Factory Method)  
 3 抽象工厂模式(Abstract Factory)  
@@ -20,7 +20,7 @@
 ##### 结构型模式 Structural Patterns 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 把类和对象通过某种形式结合在一起，构成某种复杂或合理的结构。
-<font size=2>    
+<font size=5>    
 共7种
 1 适配器模式(Adaptor)  
 2 装饰者模式(Decorater)  
@@ -35,7 +35,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 用来解决类或对象之间的交互，更合理的优化类或对象之间的关系。
     
-<font size=2>      
+<font size=5>      
 共11种，
 1 观察者模式(Observer)  
 2 策略模式(Strategy)  
