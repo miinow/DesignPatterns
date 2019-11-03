@@ -1,4 +1,4 @@
-##### 单例模式
+### 单例模式
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 只有一个实例， 使用场景如log。。。
 
