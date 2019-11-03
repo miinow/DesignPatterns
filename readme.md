@@ -21,7 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 把类和对象通过某种形式结合在一起，构成某种复杂或合理的结构。
  
-共7种
+
+共7种  
 1 适配器模式(Adaptor)  
 2 装饰者模式(Decorater)  
 3 代理模式(Proxy)  
@@ -35,8 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 用来解决类或对象之间的交互，更合理的优化类或对象之间的关系。
     
-    
-共11种，  
+共11种    
 1 观察者模式(Observer)  
 2 策略模式(Strategy)  
 3 模版方法模式(Template Method)  
