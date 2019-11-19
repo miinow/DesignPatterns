@@ -10,7 +10,7 @@
 为了解决对象创建的过程。   
     
 共5种:  
-1 [单例模式(Singlton)](./src/Creative/Singleton/singleton.md)  
+1 [单例模式(Singlton)](src/Creational/Singleton/singleton.md)  
 2 工厂模式(Factory Method)  
 3 抽象工厂模式(Abstract Factory)  
 4 建造者模式(Buider)  
@@ -23,7 +23,7 @@
  
 
 共7种  
-1 适配器模式(Adaptor)  
+1 [适配器模式(Adaptor)](src/Structural/Adapter/Adapter.md)  
 2 装饰者模式(Decorater)  
 3 代理模式(Proxy)  
 4 外观模式(Facade)  
