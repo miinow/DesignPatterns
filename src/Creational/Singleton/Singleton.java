@@ -1,4 +1,4 @@
-package Creative.Singleton;
+package Creational.Singleton;
 
 class LazySingleton {
 
